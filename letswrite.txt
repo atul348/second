@@ -40,4 +40,4 @@ static void countFreq(int a[], int n)
 	} 
 	} 
 
-// This code is contributed by Ansu Kumari 
+
